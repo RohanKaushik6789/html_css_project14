@@ -38,3 +38,4 @@ This is Dance Home Page and very time consuming project it was
 
 ## Deployed link
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7686e775-23f0-445f-bcf0-b7c8335615d5/deploy-status)](https://rohankaushikproject14.netlify.app/)
